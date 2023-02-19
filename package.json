@@ -1,7 +1,7 @@
 {
   "name": "react-homework",
   "version": "0.1.0",
-  "homepage": "https://igor1911.github.io/react-homework/",
+  "homepage": "https://igor1911.github.io/react-homework",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
